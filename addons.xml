@@ -2,7 +2,7 @@
 <addons>
 <addon id="metadata.tvshows.tmdbmx"
        name="The Movie Database - MOD BY RADIICK"
-       version="2.2.9"
+       version="2.3.9"
        provider-name="Team Kodi - MOD BY RADIICK">
   <requires>
     <import addon="xbmc.metadata" version="2.1.0"/>
@@ -95,7 +95,7 @@
   </extension>
 </addon>
 
-    <addon id="repository.radiick" name="Radiick Repo" version="1.2.1" provider-name="Radiick">
+    <addon id="repository.radiick" name="Radiick Repo" version="1.2.5" provider-name="Radiick">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
