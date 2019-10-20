@@ -95,7 +95,7 @@
   </extension>
 </addon>
 
-    <addon id="repository.radiick" name="Radiick Repo" version="1.2.5" provider-name="Radiick">
+    <addon id="repository.radiick" name="Radiick Repo" version="1.3" provider-name="Radiick">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
